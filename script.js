@@ -24,7 +24,6 @@ boxes.forEach((box) => {
        count++;
         let isWinner = checkWinner();
         if (count === 9 && !isWinner){
-            //container.classList.add("hideGame");
             gameDraw();
         }
     });
