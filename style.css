@@ -77,3 +77,6 @@ h1{
     font-weight: bold;
     border-radius: 5px;
 }
+.hideGame{
+    display: none;
+} 
